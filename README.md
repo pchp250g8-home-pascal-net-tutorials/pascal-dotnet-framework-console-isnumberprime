@@ -17,7 +17,7 @@ The program does the following:
       Greater than 2 - composite.
       The corresponding messages are displayed on the screen.
   6. The program waits for the "Enter" key to be pressed before terminating.
-Developed in the Microsoft Visual Studio integrated environment.
+Developed in the PascalABCDotNet integrated environment.
 
 
 IsNumberPrime. Занятия по Pascal. Платформа DotNet FrameWork. Алгоритмы. Простой ввод/вывод. Консольное приложение.
@@ -39,4 +39,4 @@ IsNumberPrime. Занятия по Pascal. Платформа DotNet FrameWork. 
      Больше 2 - составное.
      Соответствующие сообщения выводятся на экран.    
   6. Программа ждёт нажатия клавиши "ввод" перед завершением. 
-Разработано в интегрированной среде Microsoft Visual Stud
+Разработано в интегрированной среде PascalABCDotNet
