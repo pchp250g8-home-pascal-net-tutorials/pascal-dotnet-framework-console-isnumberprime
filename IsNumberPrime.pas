@@ -5,7 +5,7 @@ begin
 	var nDividers := 0;
 	Console.WriteLine('Input an integer positive number');
 	UInt64.TryParse(Console.ReadLine(), ulNumber);
-	Console.WriteLine($'The number {ulNumber} has the folowing dividers:');
+	Console.WriteLine($'The number {ulNumber} has the folowing divisors:');
 	for var i : Uint64 := 1 To ulNumber do
   begin
 		if ulNumber mod i = 0 then
